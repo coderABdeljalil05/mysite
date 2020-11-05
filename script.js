@@ -1,8 +1,8 @@
 class Slider{
   constructor(){
     this.images = [];
-    this.images[0] = "foto/im.jpg";
-    this.images[1] = "foto/im.jpg";
+   
+   
     this.images[2] = "foto/unv.png";
 
     this.links=[];
